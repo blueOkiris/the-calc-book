@@ -60,19 +60,19 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
     g. [Mean Value Theorem, Rolle's Theorem, and Extreme Value Theorem](#Mean-Value-Theorem-Rolles-Theorem-and-Extreme-Value-Theorem)
 
-5. Curve Sketching and Applications
+5. [Curve Sketching and Applications](#Curve-Sketching-and-Applications)
 
-    a. Limits at Infinity
+    a. [Limits at Infinity](#Limits-at-Infinity)
 
-    b. Graphical/Physical Interpretation of First and Second Derivatives
+    b. [Graphical/Physical Interpretation of First and Second Derivatives](#GraphicalPhysical-Interpretation-of-First-and-Second-Derivatives)
 
-    c. Derivatives as Velocity and Acceleration/Motion Problems
+    c. [Derivatives as Velocity and Acceleration/Motion Problems](#Derivatives-as-Velocity-and-AccelerationMotion-Problems)
 
-    d. Optimization Problems
+    d. [Optimization Problems](#Optimization-Problems)
 
-    e. Related-Rate Problems
+    e. [Related-Rate Problems](#Related-Rate-Problems)
 
-    f. Newton's Method
+    f. [Newton's Method](#Newtons-Method)
 
 6. Integration
 
@@ -201,7 +201,7 @@ TODO
 
 TODO
 
-### Derivatives as Velocity and Acceleration and Motion Problems
+### Derivatives as Velocity and Acceleration/Motion Problems
 
 TODO
 
@@ -221,7 +221,7 @@ TODO
 
 TODO
 
-### Positive Form Velocity and Area Under a Curve
+### Positive Form Velocity/Area Under a Curve
 
 TODO
 
@@ -229,7 +229,7 @@ TODO
 
 TODO
 
-### Fundamental Theorem and the Anti Derivative
+### Fundamental Theorem/The Anti Derivative
 
 TODO
 
