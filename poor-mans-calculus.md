@@ -30,7 +30,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
     a. [Definiton of Vectors and Operations](#Definiton-of-Vectors-and-Operations)
 
-    b. [Distance Formula and Magnitude and Direction of Vectors](#Distance-Formula-and-Magnitude-and-Direction-of-Vectors)
+    b. [Distance Formula and Magnitude/Direction of Vectors](#Distance-Formula-and-MagnitudeDirection-of-Vectors)
 
     c. [Dot Product and Angle Between Vectors](#Dot-Product-and-Angle-Between-Vectors)
 
