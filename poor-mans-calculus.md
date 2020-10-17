@@ -8,7 +8,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
 ## Table of Contents
 
-1. [Functions and Pre-Calculus Review](#Functions\ and\ Pre-Calculus\ Review)
+1. [Functions and Pre-Calculus Review](#1.-Functions-and-Pre-Calculus-Review)
 
    a. [Graph of a Function y = f(x) and Domain/Range](#Graph\ of\ a\ Function\ y=f(x)\ and\ Domain/Range)
 
@@ -16,13 +16,13 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
    c. [Definitions and Properties of Relevant Functions](#Definitions and Properties of Relevant Functions)
 
-      1. [Polynomial](#Polynomial)
+      1. [Polynomial](#1.-Polynomial)
 
-      2. [Trigonometric](#Trigonometric)
+      2. [Trigonometric](#2.-Trigonometric)
 
-      3. [Exponential/Logarithmic](#Exponential/Logarithmic)
+      3. [Exponential/Logarithmic](#3.-Exponential/Logarithmic)
 
-      4. [Relevant Inverses](#Relevant%20Inverses)
+      4. [Relevant Inverses](#4.-Relevant-Inverses)
 
    d. [Parametric Equations](#Parametric\ Equations)
 
@@ -85,39 +85,39 @@ The document will begin with a review of pre-calc and move into the realm of cal
     d. Table of Basic Antiderivative Forms
 
 
-## Functions and Pre-Calculus Review
+## 1. Functions and Pre-Calculus Review
 
 TODO
 
-### Graph of a Function y = f(x) and Domain/Range
+### a. Graph of a Function y = f(x) and Domain/Range
 
 TODO
 
-### Properties of Functions and Graphs
+### b. Properties of Functions and Graphs
 
 TODO
 
-### Definitions and Properties of Relevant Functions
+### c. Definitions and Properties of Relevant Functions
 
 TODO
 
-#### Polynomial
+#### 1. Polynomial
 
 TODO
 
-#### Trigonometric
+#### 2. Trigonometric
 
 TODO
 
-#### Exponential/Logarithmic
+#### 3. Exponential/Logarithmic
 
 TODO
 
-#### Relevant Inverses
+#### 4. Relevant Inverses
 
 TODO
 
-### Parametric Equations
+### d. Parametric Equations
 
 TODO
 
