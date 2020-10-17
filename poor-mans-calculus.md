@@ -22,7 +22,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
       3. [Exponential/Logarithmic](#Exponential/Logarithmic)
 
-      4. [Relevant Inverses](#Relevant\ Inverses)
+      4. [Relevant Inverses](#Relevant%20Inverses)
 
    d. [Parametric Equations](#Parametric\ Equations)
 
