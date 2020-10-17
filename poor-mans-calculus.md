@@ -10,7 +10,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
 1. [Functions and Pre-Calculus Review](#Functions-and-Pre-Calculus-Review)
 
-   a. [Graph of a Function and Domain/Range](#Graph-of-a-Function-and-Domain/Range)
+   a. [Graph of a Function and Domain and Range](#Graph-of-a-Function-and-Domain-and-Range)
 
    b. [Properties of Functions and Graphs](#Properties-of-Functions-and-Graphs)
 
@@ -20,7 +20,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
       2. [Trigonometric](#Trigonometric)
 
-      3. [Exponential/Logarithmic](#Exponential-Logarithmic)
+      3. [Exponential and Logarithmic](#Exponential-and-Logarithmic)
 
       4. [Relevant Inverses](#Relevant-Inverses)
 
@@ -89,7 +89,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
 TODO
 
-### Graph of a Function and Domain/Range
+### Graph of a Function and Domain and Range
 
 TODO
 
@@ -109,7 +109,7 @@ TODO
 
 TODO
 
-#### Exponential/Logarithmic
+#### Exponential and Logarithmic
 
 TODO
 
