@@ -20,7 +20,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
       2. [Trigonometric](#Trigonometric)
 
-      3. [Exponential/Logarithmic](#Exponential/Logarithmic)
+      3. [Exponential/Logarithmic](#Exponential-Logarithmic)
 
       4. [Relevant Inverses](#Relevant-Inverses)
 
