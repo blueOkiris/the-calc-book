@@ -10,25 +10,25 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
 1. [Functions and Pre-Calculus Review](#Functions-and-Pre-Calculus-Review)
 
-   a. [Graph of a Function y = f(x) and Domain/Range](#Graph-of-a-Function-y=f(x)-and-Domain/Range)
+   a. [Graph of a Function y=f(x) and Domain/Range](#Graph-of-a-Function-y=f(x)-and-Domain/Range)
 
-   b. [Properties of Functions and Graphs](#Properties of Functions and Graphs)
+   b. [Properties of Functions and Graphs](#Properties-of-Functions-and-Graphs)
 
-   c. [Definitions and Properties of Relevant Functions](#Definitions and Properties of Relevant Functions)
+   c. [Definitions and Properties of Relevant Functions](#Definitions-and-Properties-of-Relevant-Functions)
 
-      1. [Polynomial](#1.-Polynomial)
+      1. [Polynomial](#Polynomial)
 
-      2. [Trigonometric](#2.-Trigonometric)
+      2. [Trigonometric](#Trigonometric)
 
-      3. [Exponential/Logarithmic](#3.-Exponential/Logarithmic)
+      3. [Exponential/Logarithmic](#Exponential/Logarithmic)
 
-      4. [Relevant Inverses](#4.-Relevant-Inverses)
+      4. [Relevant Inverses](#Relevant-Inverses)
 
-   d. [Parametric Equations](#Parametric\ Equations)
+   d. [Parametric Equations](#Parametric-Equations)
 
 2. [Vectors](#Vectors)
 
-    a. [Definiton of Vectors and Operations](#Definiton\ of\ Vectors\ and\ Operations)
+    a. [Definiton of Vectors and Operations](#Definiton-of-Vectors-and-Operations)
 
     b. Distance Formula and Magnitude/Direction of Vectors
 
@@ -89,150 +89,150 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
 TODO
 
-### a. Graph of a Function y = f(x) and Domain/Range
+### Graph of a Function y = f(x) and Domain/Range
 
 TODO
 
-### b. Properties of Functions and Graphs
+### Properties of Functions and Graphs
 
 TODO
 
-### c. Definitions and Properties of Relevant Functions
+### Definitions and Properties of Relevant Functions
 
 TODO
 
-#### 1. Polynomial
+#### Polynomial
 
 TODO
 
-#### 2. Trigonometric
+#### Trigonometric
 
 TODO
 
-#### 3. Exponential/Logarithmic
+#### Exponential/Logarithmic
 
 TODO
 
-#### 4. Relevant Inverses
+#### Relevant Inverses
 
 TODO
 
-### d. Parametric Equations
+### Parametric Equations
 
 TODO
 
-## 2. Vectors
+## Vectors
 
 TODO
 
-### a. Definiton of Vectors and Operations
+### Definiton of Vectors and Operations
 
 TODO
 
-### b. Distance Formula and Magnitude/Direction of Vectors
+### Distance Formula and Magnitude/Direction of Vectors
 
 TODO
 
-### c. Dot Product and Angle Between Vectors
+### Dot Product and Angle Between Vectors
 
 TODO
 
-### d. Vector Projection
+### Vector Projection
 
 TODO
 
-## 3. Limits and Continuity
+## Limits and Continuity
 
 TODO
 
-### a. Limits
+### Limits
 
 TODO
 
-### b. Continuity
+### Continuity
 
 TODO
 
-### c. Intermediate Value Theorem
+### Intermediate Value Theorem
 
 TODO
 
-## 4. Differentiation
+## Differentiation
 
 TODO
 
-### a. Average Rate of Change
+### Average Rate of Change
 
 TODO
 
-### b. Instantaneous Rate of Change and Definition of the Derivative
+### Instantaneous Rate of Change and Definition of the Derivative
 
 TODO
 
-### c. Formulas for Elementary Derivatives
+### Formulas for Elementary Derivatives
 
 TODO
 
-### d. Product, Quotient, and Chain Rules
+### Product, Quotient, and Chain Rules
 
 TODO
 
-### e. Implicit Differentiation and Parametric Curves
+### Implicit Differentiation and Parametric Curves
 
 TODO
 
-### f. Approximation by Secant and Tangent Lines
+### Approximation by Secant and Tangent Lines
 
 TODO
 
-### g. Mean Value Theorem, Rolle's Theorem, and Extreme Value Theorem
+### Mean Value Theorem, Rolle's Theorem, and Extreme Value Theorem
 
 TODO
 
-## 5. Curve Sketching and Applications
+## Curve Sketching and Applications
 
 TODO
 
-### a. Limits at Infinity
+### Limits at Infinity
 
 TODO
 
-### b. Graphical/Physical Interpretation of First and Second Derivatives
+### Graphical/Physical Interpretation of First and Second Derivatives
 
 TODO
 
-### c. Derivatives as Velocity and Acceleration/Motion Problems
+### Derivatives as Velocity and Acceleration/Motion Problems
 
 TODO
 
-### d. Optimization Problems
+### Optimization Problems
 
 TODO
 
-### e. Related-Rate Problems
+### Related-Rate Problems
 
 TODO
 
-### f. Newton's Method
+### Newton's Method
 
 TODO
 
-## 6. Integration
+## Integration
 
 TODO
 
-### a. Positive Form Velocity/Area Under a Curve
+### Positive Form Velocity/Area Under a Curve
 
 TODO
 
-### b. Riemann Sums
+### Riemann Sums
 
 TODO
 
-### c. Fundamental Theorem/Anti Derivative
+### Fundamental Theorem/Anti Derivative
 
 TODO
 
-### d. Table of Basic Antiderivative Forms
+### Table of Basic Antiderivative Forms
 
 TODO
