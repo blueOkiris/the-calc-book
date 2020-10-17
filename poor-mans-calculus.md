@@ -89,7 +89,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
 TODO
 
-### Graph of a Function y = f(x) and Domain/Range
+### Graph of a Function y=f(x) and Domain/Range
 
 TODO
 
