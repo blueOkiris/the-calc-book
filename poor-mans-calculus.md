@@ -12,17 +12,17 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
    a. [Graph of a Function y = f(x) and Domain/Range](#Graph\ of\ a\ Function\ y=f(x)\ and\ Domain/Range)
 
-   b. [Properties of Functions and Graphs](#Properties\ of\ Functions\ and\ Graphs)
+   b. [Properties of Functions and Graphs](#Properties of Functions and Graphs)
 
-   c. [Definitions and Properties of Relevant Functions](#Definitions\ and\ Properties\ of\ Relevant\ Functions)
+   c. [Definitions and Properties of Relevant Functions](#Definitions and Properties of Relevant Functions)
 
-      1. [Polynomial](#Polynomial)
+      1. [Polynomial](##Polynomial)
 
       2. [Trigonometric](#Trigonometric)
 
       3. [Exponential/Logarithmic](#Exponential/Logarithmic)
 
-      4. [Relevant Inverses](Relevant\ Inverses)
+      4. [Relevant Inverses](#Relevant\ Inverses)
 
    d. [Parametric Equations](#Parametric\ Equations)
 

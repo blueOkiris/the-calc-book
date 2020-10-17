@@ -12,7 +12,7 @@ Textbooks are expensive and overwritten, and that's stupid. Here's why:
 
 For these reasons, I am creating the first of possibly multiple free to use textbooks. This one in particular is on Calculus. I'll probably make second calculus book with more advanced topics, following my university's Calc I, II, and III. I'll probably make a set of Physics books as well as they are very related.
 
-To access the book, go to the file "[poor-mans-calculus.md](the-calc-book.md)" in the repo. I hope this work is useful to you. Feel free to use it for anything or even contribute to the works
+To access the book, go to the file "[poor-mans-calculus.md](poor-mans-calculus.md)" in the repo. I hope this work is useful to you. Feel free to use it for anything or even contribute to the works
 
 ## About the Author
 
