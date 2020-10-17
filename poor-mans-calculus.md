@@ -16,7 +16,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
    c. [Definitions and Properties of Relevant Functions](#Definitions and Properties of Relevant Functions)
 
-      1. [Polynomial](##Polynomial)
+      1. [Polynomial](#Polynomial)
 
       2. [Trigonometric](#Trigonometric)
 
@@ -85,39 +85,39 @@ The document will begin with a review of pre-calc and move into the realm of cal
     d. Table of Basic Antiderivative Forms
 
 
-## 1. Functions and Pre-Calculus Review
+## Functions and Pre-Calculus Review
 
 TODO
 
-### a. Graph of a Function y = f(x) and Domain/Range
+### Graph of a Function y = f(x) and Domain/Range
 
 TODO
 
-### b. Properties of Functions and Graphs
+### Properties of Functions and Graphs
 
 TODO
 
-### c. Definitions and Properties of Relevant Functions
+### Definitions and Properties of Relevant Functions
 
 TODO
 
-#### 1. Polynomial
+#### Polynomial
 
 TODO
 
-#### 2. Trigonometric
+#### Trigonometric
 
 TODO
 
-#### 3. Exponential/Logarithmic
+#### Exponential/Logarithmic
 
 TODO
 
-#### 4. Relevant Inverses
+#### Relevant Inverses
 
 TODO
 
-### d. Parametric Equations
+### Parametric Equations
 
 TODO
 
