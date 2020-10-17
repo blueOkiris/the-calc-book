@@ -8,7 +8,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
 ## Table of Contents
 
-1. [Functions and Pre-Calculus Review](#1.-Functions-and-Pre-Calculus-Review)
+1. [Functions and Pre-Calculus Review](#Functions-and-Pre-Calculus-Review)
 
    a. [Graph of a Function y = f(x) and Domain/Range](#Graph\ of\ a\ Function\ y=f(x)\ and\ Domain/Range)
 
@@ -85,7 +85,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
     d. Table of Basic Antiderivative Forms
 
 
-## 1. Functions and Pre-Calculus Review
+## Functions and Pre-Calculus Review
 
 TODO
 
