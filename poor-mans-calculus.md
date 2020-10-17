@@ -30,35 +30,35 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
     a. [Definiton of Vectors and Operations](#Definiton-of-Vectors-and-Operations)
 
-    b. Distance Formula and Magnitude/Direction of Vectors
+    b. [Distance Formula and Magnitude and Direction of Vectors](#Distance-Formula-and-Magnitude-and-Direction-of-Vectors)
 
-    c. Dot Product and Angle Between Vectors
+    c. [Dot Product and Angle Between Vectors](#Dot-Product-and-Angle-Between-Vectors)
 
-    d. Vector Projection
+    d. [Vector Projection](#Vector-Projection)
 
-3. Limits and Continuity
+3. [Limits and Continuity](#Limits-and-Continuity)
 
-    a. Limits
+    a. [Limits](#Limits)
 
-    b. Continuity
+    b. [Continuity](#Continuity)
 
-    c. Intermediate Value Theorem
+    c. [Intermediate Value Theorem](#Intermediate-Value-Theorem)
 
-4. Differentiation
+4. [Differentiation](#Differentiation)
 
-    a. Average Rate of Change
+    a. [Average Rate of Change](#Average-Rate-of-Change)
 
-    b. Instantaneous Rate of Change and Definition of the Derivative
+    b. [Instantaneous Rate of Change and Definition of the Derivative](#Instantaneous-Rate-of-Change-and-Definition-of-the-Derivative)
 
-    c. Formulas for Elementary Derivatives
+    c. [Formulas for Elementary Derivatives](#Formulas-for-Elementary-Derivatives)
 
-    d. Product, Quotient, and Chain Rules
+    d. [Product, Quotient, and Chain Rules](#Product-Quotient-and-Chain-Rules)
 
-    e. Implicit Differentiation and Parametric Curves
+    e. [Implicit Differentiation and Parametric Curves](#Implicit-Differentiation-and-Parametric-Curves)
 
-    f. Approximation by Secant and Tangent Lines
+    f. [Approximation by Secant and Tangent Lines](#Approximation-by-Secant-and-Tangent-Lines)
 
-    g. Mean Value Theorem, Rolle's Theorem, and Extreme Value Theorem
+    g. [Mean Value Theorem, Rolle's Theorem, and Extreme Value Theorem](#Mean-Value-Theorem-Rolles-Theorem-and-Extreme-Value-Theorem)
 
 5. Curve Sketching and Applications
 
@@ -201,7 +201,7 @@ TODO
 
 TODO
 
-### Derivatives as Velocity and Acceleration/Motion Problems
+### Derivatives as Velocity and Acceleration and Motion Problems
 
 TODO
 
@@ -221,7 +221,7 @@ TODO
 
 TODO
 
-### Positive Form Velocity/Area Under a Curve
+### Positive Form Velocity and Area Under a Curve
 
 TODO
 
@@ -229,7 +229,7 @@ TODO
 
 TODO
 
-### Fundamental Theorem/Anti Derivative
+### Fundamental Theorem and the Anti Derivative
 
 TODO
 
