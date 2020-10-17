@@ -10,7 +10,7 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
 1. [Functions and Pre-Calculus Review](#Functions-and-Pre-Calculus-Review)
 
-   a. [Graph of a Function y = f(x) and Domain/Range](#Graph\ of\ a\ Function\ y=f(x)\ and\ Domain/Range)
+   a. [Graph of a Function y = f(x) and Domain/Range](#Graph-of-a-Function-y=f(x)-and-Domain/Range)
 
    b. [Properties of Functions and Graphs](#Properties of Functions and Graphs)
 
