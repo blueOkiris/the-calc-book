@@ -74,15 +74,15 @@ The document will begin with a review of pre-calc and move into the realm of cal
 
     f. [Newton's Method](#Newtons-Method)
 
-6. Integration
+6. [Integration](#Integration)
 
-    a. Positive Form Velocity/Area Under a Curve
+    a. [Positive Form Velocity/Area Under a Curve](Positive-Form-VelocityArea-Under-a-Curve)
 
-    b. Riemann Sums
+    b. [Riemann Sums](Riemann-Sums)
 
-    c. Fundamental Theorem/Anti Derivative
+    c. [Fundamental Theorem/Anti Derivative](Fundamental-TheoremAnti-Derivative)
 
-    d. Table of Basic Antiderivative Forms
+    d. [Table of Basic Antiderivative Forms](Table-of-Basic-Antiderivative-Forms)
 
 
 ## Functions and Pre-Calculus Review
